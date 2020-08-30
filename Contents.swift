@@ -1,6 +1,6 @@
 import Foundation
 
-var message = "つららさんへのレビューリクエスト"
+var message = "miyazakiさんへのレビューリクエスト"
 
 print(message)
 print("----------------------")
