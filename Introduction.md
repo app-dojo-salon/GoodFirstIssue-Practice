@@ -25,3 +25,9 @@
 ペット セキセイインコ・オカメインコ
 
 Twitter [@turara_engeneer](https://twitter.com/turara_engeneer)
+
+## Miyazaki
+
+年齢 25才
+
+出身地 神奈川
